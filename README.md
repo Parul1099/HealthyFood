@@ -16,3 +16,4 @@ Then you will able to see recommended diet page, click on disease you will see b
 This is diabetic diet page.
 <img width="960" alt="diabetic diet" src="https://user-images.githubusercontent.com/86195255/122941000-d3796400-d329-11eb-92e4-ea66ae67ee86.png">
 This is cancer diet page.
+<img width="960" alt="cancer diet" src="https://user-images.githubusercontent.com/86195255/122941218-0a4f7a00-d32a-11eb-85d2-9527e0b6790a.png">
