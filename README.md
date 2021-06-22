@@ -6,3 +6,4 @@ For that i have made one working prototype(web application) by using java which 
 So first you will see the healthy diet screen.
 <img width="776" alt="healthy diet screen" src="https://user-images.githubusercontent.com/86195255/122926356-9fe40d00-d31c-11eb-82e5-b147d696ce47.png">
 Then you will see the login screen username = "admin" and password = "123".
+<img width="440" alt="login screen" src="https://user-images.githubusercontent.com/86195255/122926795-13861a00-d31d-11eb-8f73-3d25ad0d8ed3.png">
