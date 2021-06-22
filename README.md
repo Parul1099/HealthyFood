@@ -8,7 +8,7 @@ So first you will see the healthy diet screen.
 Then you will see the login screen , enter username = "admin" and password = "123".
 <img width="440" alt="login screen" src="https://user-images.githubusercontent.com/86195255/122926795-13861a00-d31d-11eb-8f73-3d25ad0d8ed3.png">
 After that you will see the information page, enter name = "sunita" ; number = "1234567890" ; address = "nagpur"
-
+<img width="445" alt="info screen" src="https://user-images.githubusercontent.com/86195255/122927630-eb4aeb00-d31d-11eb-82cd-0ad972e9ef3c.png">
 Ater that you will see the disease page, enter disease = "diabetes" ; age ="68" ; gender = "female".
 
 Then you will able to see recommended diet page, click on disease you will see both cancer and diabetes option click anyone of them and see the diet according to the disease.
