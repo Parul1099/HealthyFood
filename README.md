@@ -12,3 +12,4 @@ After that you will see the information page, enter name = "sunita" ; number = "
 Ater that you will see the disease page, enter disease = "diabetes" ; age ="68" ; gender = "female".
 <img width="444" alt="disease screen" src="https://user-images.githubusercontent.com/86195255/122927849-22210100-d31e-11eb-99dc-5764bb7b1912.png">
 Then you will able to see recommended diet page, click on disease you will see both cancer and diabetes option click anyone of them and see the diet according to the disease.
+<img width="945" alt="reccomended diet" src="https://user-images.githubusercontent.com/86195255/122928533-d28f0500-d31e-11eb-9291-be7f2e7b7c0f.png">
